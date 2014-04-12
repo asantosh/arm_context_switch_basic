@@ -1,0 +1,18 @@
+arm_context_switch_basic
+===============================================================
+
+My Hobby kernel
+Basics of context switching in arm processor using interrupts
+
+===============================================================
+
+--src/: [contains all the source files]
+   --------------------------------------------------------------
+   |
+   -- Makefile  "build the target"
+   -- linker.ld
+   -- main.c
+   -- main.h
+   -- start.S
+   -- timer.c
+   -- timer.h
